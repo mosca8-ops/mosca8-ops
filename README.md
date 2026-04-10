@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=_%3E+Hello+World!;_%3E+whoami+%3A+Andrea+Moscatelli;_%3E+Advanced+Software+Engineer;_%3E+Java+%7C+Spring+%7C+Python+%7C+Go)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=_%3E+Hello+World!;_%3E+whoami+%3A+Andrea+Moscatelli;_%3E+Software+Engineer;_%3E+Java+%7C+Spring+%7C+Python+%7C+Go)](https://git.io/typing-svg)
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -16,7 +16,7 @@
 ---
 
 ```bash
-andrea@nttdata:~$ cat stack.sh
+mosca8-ops@pop-os:~$ cat stack.sh
 
 ## Backend
 Java · Spring Boot · Python · Go
@@ -31,7 +31,7 @@ PostgreSQL · SQL · Maven · Jenkins · Git
 ---
 
 ```bash
-andrea@nttdata:~$ ./stats.sh
+mosca8-ops@pop-os:~$ ./stats.sh
 ```
 
 <img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true" />
