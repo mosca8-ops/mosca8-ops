@@ -17,10 +17,12 @@
 
   ### 📊 Stats
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mosca8-ops&show_icons=tru
-  e&theme=matrix&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosca8-ops&lay
-  out=compact&theme=matrix&hide_border=true" />                                                       
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m
+  osca8-ops&show_icons=true&theme=matrix&hide_border=true&cache_seconds=1800" 
+  />
+  <img height="160" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosca8-o
+  ps&layout=compact&theme=matrix&hide_border=true&cache_seconds=1800" />                                                    
    
   ---                                                                                                 
                                                                                                     
