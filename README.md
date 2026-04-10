@@ -7,7 +7,7 @@
 │  andrea@dev:~$ whoami                                │
 │                                                      │
 │  name    → Andrea Moscatelli                         │
-│  role    → Software Engineer		               │
+│  role    → Software Engineer		                     │
 │  focus   → Backend · Microservices · Clean Code      │
 │  status  → [████████░░] always shipping              │
 └──────────────────────────────────────────────────────┘
@@ -35,7 +35,7 @@ andrea@nttdata:~$ ./stats.sh
 ```
 
 <img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosca8-ops&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosca8-ops" />
 
 ---
 
