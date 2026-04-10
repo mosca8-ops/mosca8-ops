@@ -1,16 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=_%3E+Hello+World!;_%3E+whoami+%3A+Andrea+Moscatelli;_%3E+Advanced+Software+Engineer+%40+NTT+DATA;_%3E+Java+%7C+Spring+%7C+Python+%7C+Go)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=_%3E+Hello+World!;_%3E+whoami+%3A+Andrea+Moscatelli;_%3E+Advanced+Software+Engineer;_%3E+Java+%7C+Spring+%7C+Python+%7C+Go)](https://git.io/typing-svg)
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│  andrea@nttdata:~$ whoami                            │
+│  andrea@dev:~$ whoami                                │
 │                                                      │
-│  name    → Andrea Moscatelli                        │
-│  role    → Advanced Software Engineer               │
-│  company → NTT DATA · Milano                        │
-│  focus   → Backend · Microservices · Clean Code     │
-│  status  → [████████░░] always shipping             │
+│  name    → Andrea Moscatelli                         │
+│  role    → Software Engineer		               │
+│  focus   → Backend · Microservices · Clean Code      │
+│  status  → [████████░░] always shipping              │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -35,7 +34,7 @@ PostgreSQL · SQL · Maven · Jenkins · Git
 andrea@nttdata:~$ ./stats.sh
 ```
 
-<img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true" />
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mosca8-ops&theme=github_dark" />
 
 ---
