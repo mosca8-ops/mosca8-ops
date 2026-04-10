@@ -12,8 +12,8 @@
 
 ### 📊 Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mosca8-ops&show_icons=true&theme=matrix&hide_border=true&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosca8-ops&layout=compact&theme=matrix&hide_border=true&cache_seconds=1800" />
+<img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosca8-ops&theme=github_dark" />
 
 ---
 
