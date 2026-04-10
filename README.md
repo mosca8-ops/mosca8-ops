@@ -6,7 +6,7 @@
 
 ### 🕹️ Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,docker,kubernetes,linux,git&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,go,angular,react,nodejs,html,css,postgresql,maven,jenkins,git&theme=dark&perline=7" />
 
 ---
 
