@@ -7,7 +7,7 @@
 │  andrea@dev:~$ whoami                                │
 │                                                      │
 │  name    → Andrea Moscatelli                         │
- │  role    → Software Engineer		                   │
+│  role    → Software Engineer                         │
 │  focus   → Backend · Microservices · Clean Code      │
 │  status  → [████████░░] always shipping              │
 └──────────────────────────────────────────────────────┘
