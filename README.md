@@ -4,7 +4,7 @@
 
 ```
 ┌──────────────────────────────────────────────────────┐
-│  andrea@dev:~$ whoami                                │
+│  mosca8-ops@dev:~$ whoami                            │
 │                                                      │
 │  name    → Andrea Moscatelli                         │
 │  role    → Software Engineer                         │
@@ -16,7 +16,7 @@
 ---
 
 ```
-mosca8-ops@pop-os:~$ cat stack.sh
+mosca8-ops@dev:~$ cat stack.sh
 ```
 
 **Backend**
@@ -45,7 +45,7 @@ mosca8-ops@pop-os:~$ cat stack.sh
 ---
 
 ```bash
-mosca8-ops@pop-os:~$ ./stats.sh
+mosca8-ops@dev:~$ ./stats.sh
 ```
 
 <img height="160" src="https://streak-stats.demolab.com?user=mosca8-ops&theme=matrix&hide_border=true" />
